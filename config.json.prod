@@ -1,0 +1,7 @@
+{
+    "Interval": 1800,
+    "DvrStreams": ["rtmp://10.142.16.101/A001/ch22", "rtmp://10.142.16.101/A002/ch22", "rtmp://10.142.16.101/A003/ch22", "rtmp://10.142.16.101/A004/ch22", "rtmp://10.142.16.101/A005/ch22"],
+    "CdnStreams": ["https://pull.xxxbet.com/A001/ch32.flv", "https://pull.xxxbet.com/A002/ch32.flv", "https://pull.xxxbet.com/A003/ch32.flv", "https://pull.xxxbet.com/A004/ch32.flv", "https://pull.xxxbet.com/A005/ch32.flv"],
+    "DvrPushApp": ["pushB001", "pushB002", "pushB003", "pushB004", "pushB005"],
+    "CdnPushApp": ["pushB001Cdn", "pushB002Cdn", "pushB003Cdn", "pushB004Cdn", "pushB005Cdn"]
+}
